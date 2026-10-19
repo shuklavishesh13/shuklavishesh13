@@ -5,8 +5,6 @@
 
 **Code. Learn. Build. Repeat.**
 
-<br/>
-
 <sub>First-year B.Tech CSE student</sub>
 
 <br/><br/>
@@ -23,7 +21,7 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -31,7 +29,7 @@
 
 </div>
 
-<br/>
+---
 
 ## More About Me
 
@@ -41,9 +39,9 @@
 - 🧭 Experimenting across tech domains to find my specialization
 - 🚀 Learning through practice, experimentation, and building
 
-<br/>
+---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -51,7 +49,7 @@
 
 </div>
 
-<br/>
+---
 
 ## Languages and Tools
 
@@ -61,7 +59,7 @@
 
 </div>
 
-<br/>
+---
 
 ## GitHub Analytics
 
@@ -75,21 +73,13 @@
 
 </div>
 
-<br/><br/>
-
-## Featured Projects
-
-<div align="center">
-
-*Building my foundations and working toward projects worth sharing.*
-
-</div>
-
-<br/>
+---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:C084FC&height=100&section=footer" width="100%" alt="Purple gradient footer" />
+
+**Thanks for visiting my profile! 💜**
 
 <sub>✦ Always learning, always building. ✦</sub>
 
