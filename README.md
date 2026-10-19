@@ -1,56 +1,87 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=1200&color=D8B4FE&center=true&vCenter=true&width=650&height=55&lines=Vishesh+Shukla" alt="Vishesh Shukla" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=1500&color=E9D5FF&center=true&vCenter=true&width=650&height=55&lines=Vishesh+Shukla" alt="Vishesh Shukla" />
 
-<sub>First-year B.Tech CSE student · India</sub>
+**Code. Learn. Build. Repeat.**
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/INTEREST-AI%20%2F%20ML-9333EA?style=for-the-badge&labelColor=21152F" />
-&nbsp;
-<img src="https://img.shields.io/badge/INTEREST-WEB%20DEVELOPMENT-C084FC?style=for-the-badge&labelColor=21152F" />
+<sub>First-year B.Tech CSE student</sub>
 
 <br/><br/>
 
-*Exploring technology, building ideas, and finding my own path.*
+<img src="https://img.shields.io/badge/B.TECH-COMPUTER%20SCIENCE-7C3AED?style=for-the-badge&labelColor=211747" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/INTEREST-AI%20%2F%20ML-9333EA?style=for-the-badge&labelColor=211747" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/INTEREST-WEB%20DEVELOPMENT-C084FC?style=for-the-badge&labelColor=211747" />
 
 </div>
 
----
-
-## About Me
-
-- 🎓 Pursuing a **B.Tech in Computer Science and Engineering**
-- 🤖 Interested in **Artificial Intelligence and Machine Learning**
-- 🌐 Exploring **Web Development and Full-Stack fundamentals**
-- 🧭 Experimenting across tech domains to discover my specialization
-
-## Languages and Tools
+<br/><br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,linux,git,github,vscode&theme=dark" />
+### Exploring AI/ML and Web Development, experimenting across tech domains to discover my specialization.
 
 </div>
+
+<br/>
+
+## More About Me
+
+- 🎓 Pursuing a **Bachelor of Technology in Computer Science and Engineering**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🌐 Exploring **Web Development and full-stack fundamentals**
+- 🧭 Experimenting across tech domains to find my specialization
+- 🚀 Learning through practice, experimentation, and building
+
+<br/>
 
 ## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shuklavishesh13/shuklavishesh13/output/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/shuklavishesh13/shuklavishesh13/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
+
+<br/>
+
+## Languages and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python,git,github,vscode,linux&theme=dark" alt="C, Java, Python, Git, GitHub, VS Code and Linux" />
+
+</div>
+
+<br/>
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=shuklavishesh13&show_icons=true&hide_border=true&bg_color=16131F&title_color=C084FC&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub Stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=shuklavishesh13&show_icons=true&hide_border=true&border_radius=8&bg_color=0D1117&title_color=B65CFF&icon_color=A970FF&text_color=C9D1D9&ring_color=B65CFF" alt="Vishesh's GitHub Statistics" />
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklavishesh13&layout=compact&hide_border=true&bg_color=16131F&title_color=C084FC&text_color=E5E7EB" alt="Most Used Languages" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklavishesh13&layout=compact&langs_count=6&hide_border=true&border_radius=8&bg_color=0D1117&title_color=B65CFF&text_color=C9D1D9" alt="Most Used Languages" />
+
+</div>
+
+<br/><br/>
+
+## Featured Projects
+
+<div align="center">
+
+*Building my foundations and working toward projects worth sharing.*
 
 </div>
 
@@ -58,8 +89,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:C084FC&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:C084FC&height=100&section=footer" width="100%" alt="Purple gradient footer" />
 
-<sub>✦ Learn quietly. Build consistently. Grow endlessly. ✦</sub>
+<sub>✦ Always learning, always building. ✦</sub>
 
 </div>
