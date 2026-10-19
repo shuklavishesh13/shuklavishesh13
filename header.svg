@@ -1,0 +1,37 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="145" viewBox="0 0 700 145">
+  <defs>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#581CDB"/>
+      <stop offset="55%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="700" height="145" fill="#161B22"/>
+
+  <path
+    d="M300 43
+       C310 18 340 24 361 30
+       C385 22 411 35 414 57
+       C420 79 399 95 383 109
+       C365 125 342 113 323 106
+       C299 99 284 73 300 43Z"
+    fill="url(#purple)"
+  />
+
+  <text
+    x="350" y="72"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="38"
+    font-weight="800"
+    fill="#F5EEFF">Vishesh Shukla</text>
+
+  <text
+    x="350" y="96"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13"
+    fill="#FFFFFF">Code. Learn. Build. Repeat.</text>
+</svg>
