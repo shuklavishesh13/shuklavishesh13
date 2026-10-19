@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Vishesh Shukla — Code. Learn. Build. Repeat." />
+<img src="header.svg" width="100%" alt="Vishesh Shukla — Code. Learn. Build. Repeat." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=600&color=B65CFF&center=true&vCenter=true&width=520&height=30&lines=CSE+Student+%7C+First+Semester;Finding+my+path+in+tech;Learning+C%2C+Java+%26+Python;Exploring+Web+Development;Curious+about+AI%2FML" alt="Rotating introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=600&color=B65CFF&center=true&vCenter=true&width=650&height=35&lines=CSE+Student+%7C+First+Semester;Finding+my+path+in+tech;Learning+C%2C+Java+%26+Python;Exploring+Web+Development;Curious+about+AI%2FML" alt="Rotating introduction" />
 
 <p>
 1st semester CSE B.Tech student interested in AI/ML and Web Development, currently exploring various tech domains to find my specific path.
